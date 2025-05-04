@@ -146,6 +146,13 @@ Returns:
   "risk_level": "Moderate"
 }
 ```
+## 📄 Documentation
+- [API Reference](./api_reference.md)
+- [Database Schema](./db_schema.md)
+- [Deployment Guide](./deployment_guide.md)
+- [Frontend Routes](./frontend_routes.md)
+- [ML/AI Features](./ml_ai_features.md)
+- [Admin Features](./admin_features.md)
 
 ---
 
