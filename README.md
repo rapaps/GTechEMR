@@ -147,7 +147,7 @@ Returns:
 }
 ```
 ## 📄 Documentation
-- [API Reference](.documetation/api_reference.md)   
+- [API Reference](documetation/api_reference.md)   
 - [Database Schema](./db_schema.md)
 - [Deployment Guide](./deployment_guide.md)
 - [Frontend Routes](./frontend_routes.md)
